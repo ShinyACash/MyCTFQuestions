@@ -1,0 +1,19 @@
+Forensics 1:
+
+Ciao Detective! 1
+
+Desc:
+You are assigned to investigate suspicious activity in Italy. You got hold of a singular network traffic file which seems to have information about 
+how suspects have been trying to pass their plans within themselves. You got a case file of one particular suspect named Wario. He seems to be the mastermind behind
+the criminal activities lately but no one has proof against him. If you find proofs against him then the agency can finally arrest him. You open the case file
+and all you see is one sentence, "Suspect likes to drink fernet-branca.". Perhaps the person making the case file was a newbie.
+
+
+Forensics 2:
+
+Ciao Detective! 2
+
+Desc:
+After arresting Wario, you still investigate further into the organization's plans because the crimes havent stopped yet. You seem to have
+retrieved a locked image file and some of the network traffic that was captured right before the image file was sent. They seem to have knowledge on how you figured out Wario's ways
+and hence have increased their deceptions, good luck detective.
