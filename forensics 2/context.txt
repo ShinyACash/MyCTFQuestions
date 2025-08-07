@@ -1,0 +1,8 @@
+Forensics 2:
+
+Ciao Detective! 2
+
+Desc:
+After arresting Wario, you still investigate further into the organization's plans because the crimes havent stopped yet. You seem to have
+retrieved a locked image file and some of the network traffic that was captured right before the image file was sent. They seem to have knowledge on how you figured out Wario's ways
+and hence have increased their deceptions, good luck detective.

@@ -1,0 +1,5 @@
+Let Me In Pls
+
+Desc:
+One of your fellow opponents in this CTF tried to hack into one of our "super secure BEDROTTING 13 pro max" servers. Somehow, maybe out of luck,
+he managed to login into one of them. We have captured the traffic and the logs of the server. Can you find the password he used to login?
