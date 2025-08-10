@@ -1,0 +1,7 @@
+Lost In The Unspoken Sauce
+
+Desc: 
+Garfield, a previous member of HTB was terminated for leaking sensitive information. We found a single partition of his disk which doesnt 
+seem to have many files but has a secret encrypted file in it. Our security team has provided you a python file named 'unlock.py' to 
+decrypt the encrypted file. Problem is, the encrypted file is locked with a password and the unlock script will work only if the password is correct.
+Find the password and unlock the file if you can.

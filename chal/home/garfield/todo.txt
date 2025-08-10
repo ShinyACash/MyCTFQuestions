@@ -1,0 +1,3 @@
+- finish chapter 2 of da story
+- clean up dem temp keys
+- hide da final note for da boss.
