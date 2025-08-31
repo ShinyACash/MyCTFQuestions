@@ -1,0 +1,3 @@
+- finish chapter 2 of the story
+- clean up temp keys
+- hide the final note where only those who read through will find it
