@@ -25,4 +25,4 @@ An experienced player knows that multi-byte numbers are often stored in little-e
 
 The player has to make the connection that 0x0D007FCA is a clever hexspeak representation of "CAT FOOD." This confirms our theory about the block structure and gives us the magic number to search for. Now all we need to do is put this into the solve.py script and boom.
 
-The flag is typed in as chunks in `secret.txt` which upon joining gives us: `flag{i_l0v3_c4rs_iF_y0u_c4nT_T3ll_bY_n0w_6669eff3224f704745a755de8d3a1e54}`
+The flag is typed in as chunks in `secret.txt` which upon joining gives us: `HTB{i_l0v3_c4rs_iF_y0u_c4nT_T3ll_bY_n0w_6669eff3224f704745a755de8d3a1e54}`
